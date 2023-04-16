@@ -17,7 +17,7 @@
   * Paper: [Fast Underwater Image Enhancement for Improved Visual Perception](https://ieeexplore.ieee.org/document/9001231)
   * Code: [FUnIE-GAN](https://github.com/xahidbuffon/FUnIE-GAN)
 * UGAN dataset
-  * UGAN dataset: [https://irvlab.cs.umn.edu/resources](https://irvlab.cs.umn.edu/resources](https://ieeexplore.ieee.org/document/8460552)
+  * UGAN dataset: [h[ttps://irvlab.cs.umn.edu/resources](http://irvlab.cs.umn.edu/resources/)
   * Paper: [Enhancing Underwater Imagery Using Generative Adversarial Networks](https://arxiv.org/pdf/1801.04011.pdf)
   * Code: [Underwater-Color-Correction](https://github.com/cameronfabbri/Underwater-Color-Correction)
 * UIEB dataset
@@ -36,7 +36,7 @@
     > [Type-5](https://pan.baidu.com/s/1jlPodNRPqySGnFxr7-qRRg)
     > [Type-7](https://pan.baidu.com/s/12l0gCsPYOtEx7hCvp9C-fw)
     > [Type-9](https://pan.baidu.com/s/1IPKimxXA1CsX3wjRE4VYNQ)
-  * Paper: [https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401)
+  * Paper: [Underwater scene prior inspired deep underwater image and video enhancement](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401)
 
 ## Usage
 * Download the datasets, setup data-paths in the **config** files
