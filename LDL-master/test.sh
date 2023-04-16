@@ -1,1 +1,0 @@
-PYTHONPATH="./:${PYTHONPATH}" CUDA_VISIBLE_DEVICES=0 python basicsr/run.py -opt options/test/LDL/test_LDL_Realworld_x2.yml
