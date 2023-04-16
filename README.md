@@ -45,6 +45,10 @@
 * Pretrained_model is provided, please click [here](https://drive.google.com/drive/folders/1PmTX1_W6_7pFo-vAF0M5h-5B83MSVdGU) to download, then put the file in **"./Pytorch/pretrain_models"**
 * The evaluation code is provided in **Evaluation.py** file
 
+## Some results
+* EUVP dataset
+![image](https://github.com/Jhan960102/FE-GAN-master/blob/main/FE-GAN/imgs/EUVP-2.PNG)
+
 ## Citation
 If you find the code and datasets helpful in your resarch or work, please cite the following papers:
 ```
