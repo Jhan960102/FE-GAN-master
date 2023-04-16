@@ -41,9 +41,9 @@
 ## Usage
 * Download the datasets, setup data-paths in the **config** files
 * Use the **Enhancement_train.py** file to train the model
-* Use the **Enhancement_test,py** file to evaluate the model
-* Pretrained_model is provided, please click [here](https://drive.google.com/drive/folders/1PmTX1_W6_7pFo-vAF0M5h-5B83MSVdGU) to download, then put the file in **./Pytorch/pretrain_models**
-* The evaluation code is provided in **Evaluation** file
+* Use the **Enhancement_test.py** file to evaluate the model
+* Pretrained_model is provided, please click [here](https://drive.google.com/drive/folders/1PmTX1_W6_7pFo-vAF0M5h-5B83MSVdGU) to download, then put the file in **"./Pytorch/pretrain_models"**
+* The evaluation code is provided in **Evaluation.py** file
 
 ## Citation
 If you find the code and datasets helpful in your resarch or work, please cite the following papers:
