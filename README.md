@@ -43,7 +43,7 @@
 * Use the **Enhancement_train.py** file to train the model
 * Use the **Enhancement_test.py** file to evaluate the model
 * Pretrained_model is provided, please click [here](https://drive.google.com/drive/folders/1PmTX1_W6_7pFo-vAF0M5h-5B83MSVdGU) to download, then put the file in **"./Pytorch/pretrain_models"**
-* The evaluation code is provided in **Evaluation.py** file
+* The evaluation code is provided in **"FE-GAN/Evaluation/"** file
 
 ## Some results
 * EUVP dataset
