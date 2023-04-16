@@ -1,6 +1,6 @@
 ## FE-GAN Features
 * Provides competitive performance for underwater image enhancement  
-* Provides good inference speed
+* Provides good inference speed  
 ** 200+ FPS on NVIDIA GeForce 2060
 * Improves the accuracy of downstream tasks such as underwater object detection
 
