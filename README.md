@@ -17,7 +17,7 @@
   * Paper: [Fast Underwater Image Enhancement for Improved Visual Perception](https://ieeexplore.ieee.org/document/9001231)
   * Code: [FUnIE-GAN](https://github.com/xahidbuffon/FUnIE-GAN)
 * UGAN dataset
-  * UGAN dataset: [h[ttps://irvlab.cs.umn.edu/resources](http://irvlab.cs.umn.edu/resources/)
+  * UGAN dataset: [https://irvlab.cs.umn.edu/resources](http://irvlab.cs.umn.edu/resources/)
   * Paper: [Enhancing Underwater Imagery Using Generative Adversarial Networks](https://arxiv.org/pdf/1801.04011.pdf)
   * Code: [Underwater-Color-Correction](https://github.com/cameronfabbri/Underwater-Color-Correction)
 * UIEB dataset
