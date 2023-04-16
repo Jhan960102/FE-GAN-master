@@ -37,3 +37,25 @@
     > [Type-7](https://pan.baidu.com/s/12l0gCsPYOtEx7hCvp9C-fw)
     > [Type-9](https://pan.baidu.com/s/1IPKimxXA1CsX3wjRE4VYNQ)
   * Paper: [https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401)
+
+## Usage
+* Download the datasets, setup data-paths in the **config** files
+* Use the **Enhancement_train.py** file to train the model
+* Use the **Enhancement_test,py** file to evaluate the model
+* Pretrained_model is provided, please click [here](https://drive.google.com/drive/folders/1PmTX1_W6_7pFo-vAF0M5h-5B83MSVdGU) to download, then put the file in **./Pytorch/pretrain_models**
+* The evaluation code is provided in **Evaluation** file
+
+## Citation
+If you find the code and datasets helpful in your resarch or work, please cite the following papers:
+'''
+ @article{islam2019fast,
+     title={Fast Underwater Image Enhancement for Improved Visual Perception},
+     author={Islam, Md Jahidul and Xia, Youya and Sattar, Junaed},
+     journal={IEEE Robotics and Automation Letters (RA-L)},
+     volume={5},
+     number={2},
+     pages={3227--3234},
+     year={2020},
+     publisher={IEEE}
+ }
+'''
