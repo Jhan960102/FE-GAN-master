@@ -47,7 +47,7 @@
 
 ## Citation
 If you find the code and datasets helpful in your resarch or work, please cite the following papers:
-'''
+```
  @article{islam2019fast,
      title={Fast Underwater Image Enhancement for Improved Visual Perception},
      author={Islam, Md Jahidul and Xia, Youya and Sattar, Junaed},
@@ -58,4 +58,4 @@ If you find the code and datasets helpful in your resarch or work, please cite t
      year={2020},
      publisher={IEEE}
  }
-'''
+```
