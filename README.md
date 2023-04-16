@@ -49,6 +49,15 @@
 * EUVP dataset
 ![image](https://github.com/Jhan960102/FE-GAN-master/blob/main/FE-GAN/imgs/EUVP-2.PNG)
 
+* UGAN dataset
+![image](https://github.com/Jhan960102/FE-GAN-master/blob/main/FE-GAN/imgs/ImageNet-2.PNG)
+
+* UIEB dataset
+![image](https://github.com/Jhan960102/FE-GAN-master/blob/main/FE-GAN/imgs/Test_R90_Test_C60.png)
+
+* NYU-v2 dataset
+![image](https://github.com/Jhan960102/FE-GAN-master/blob/main/FE-GAN/imgs/Mix-3.PNG)
+
 ## Citation
 If you find the code and datasets helpful in your resarch or work, please cite the following papers:
 ```
