@@ -58,4 +58,30 @@ If you find the code and datasets helpful in your resarch or work, please cite t
      year={2020},
      publisher={IEEE}
  }
+ @article{li2019underwater,
+  title={An underwater image enhancement benchmark dataset and beyond},
+  author={Li, Chongyi and Guo, Chunle and Ren, Wenqi and Cong, Runmin and Hou, Junhui and Kwong, Sam and Tao, Dacheng},
+  journal={IEEE Transactions on Image Processing},
+  volume={29},
+  pages={4376--4389},
+  year={2019},
+  publisher={IEEE}
+}
+@inproceedings{fabbri2018enhancing,
+  title={Enhancing underwater imagery using generative adversarial networks},
+  author={Fabbri, Cameron and Islam, Md Jahidul and Sattar, Junaed},
+  booktitle={2018 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={7159--7165},
+  year={2018},
+  organization={IEEE}
+}
+@article{li2020underwater,
+  title={Underwater scene prior inspired deep underwater image and video enhancement},
+  author={Li, Chongyi and Anwar, Saeed and Porikli, Fatih},
+  journal={Pattern Recognition},
+  volume={98},
+  pages={107038},
+  year={2020},
+  publisher={Elsevier}
+}
 ```
