@@ -27,4 +27,13 @@
 * NYU-v2 dataset
   * NYU-v2 dataset:
     > [Type-I](https://pan.baidu.com/s/13k3qNGG93aFwdthjRtxi3Q)
+    > [Type-IA](https://pan.baidu.com/s/13lRAbZYyYLyb-Z8qcpW-4Q)
+    > [Type-IB](https://pan.baidu.com/s/12qXACo20C6ee9bViItZAFA)
+    > [Type-II](https://pan.baidu.com/s/1iZM9md_mdeHXqw3XchvKHg)
+    > [Type-III](https://pan.baidu.com/s/1fIKVcvU6jg5Mi0Sw-k8VmA)
+    > [Type-1](https://pan.baidu.com/s/1V10iXd9QnFbevm17Ua0jwQ)
+    > [Type-3](https://pan.baidu.com/s/1DEI4T700jmU-cUYgAxRQAw)
+    > [Type-5](https://pan.baidu.com/s/1jlPodNRPqySGnFxr7-qRRg)
+    > [Type-7](https://pan.baidu.com/s/12l0gCsPYOtEx7hCvp9C-fw)
+    > [Type-9](https://pan.baidu.com/s/1IPKimxXA1CsX3wjRE4VYNQ)
   * Paper: [https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401)
