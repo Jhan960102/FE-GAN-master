@@ -1,7 +1,6 @@
 ## FE-GAN Features
 * Provides competitive performance for underwater image enhancement  
-* Provides good inference speed  
-** 200+ FPS on NVIDIA GeForce 2060
+* Provides good inference speed: 200+ FPS on NVIDIA GeForce 2060
 * Improves the accuracy of downstream tasks such as underwater object detection
 
 ## Installation
@@ -13,4 +12,4 @@
 > pandas=1.3.4
 
 ## Datasets
-> EUVP dataset: [https://irvlab.cs.umn.edu/resources/euvp-dataset](https://irvlab.cs.umn.edu/resources/euvp-dataset)
+* EUVP dataset: [https://irvlab.cs.umn.edu/resources/euvp-dataset](https://irvlab.cs.umn.edu/resources/euvp-dataset)
